@@ -1,0 +1,382 @@
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\csc.exe
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\System.Collections.Immutable.dll
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\vbc.exe
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\VBCSCompiler.exe
+C:\mag - Copy\mag\Magfinalproject\bin\roslyn\VBCSCompiler.exe.config
+C:\mag - Copy\mag\Magfinalproject\bin\Magfinalproject.dll.config
+C:\mag - Copy\mag\Magfinalproject\bin\Magfinalproject.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Magfinalproject.pdb
+C:\mag - Copy\mag\Magfinalproject\bin\Antlr3.Runtime.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Dashboard.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Data.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.DataAccess.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\EntityFramework.dll
+C:\mag - Copy\mag\Magfinalproject\bin\EntityFramework.SqlServer.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Google.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Web.Infrastructure.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Newtonsoft.Json.dll
+C:\mag - Copy\mag\Magfinalproject\bin\Owin.dll
+C:\mag - Copy\mag\Magfinalproject\bin\PagedList.dll
+C:\mag - Copy\mag\Magfinalproject\bin\PagedList.Mvc.dll
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Helpers.dll
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Mvc.dll
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Optimization.dll
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Razor.dll
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.WebPages.Deployment.dll
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.WebPages.dll
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.WebPages.Razor.dll
+C:\mag - Copy\mag\Magfinalproject\bin\WebGrease.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Map.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Printing.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Utils.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraReports.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.RichEdit.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraCharts.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraMap.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraTreeMap.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraGauges.v17.1.Win.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Xpo.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Office.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.TreeMap.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraGauges.v17.1.Presets.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Charts.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.CodeParser.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraEditors.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraPrinting.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraLayout.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraBars.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraTreeList.v17.1.dll
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Data.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.DataAccess.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mag - Copy\mag\Magfinalproject\bin\PagedList.xml
+C:\mag - Copy\mag\Magfinalproject\bin\PagedList.Mvc.xml
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Helpers.xml
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Mvc.xml
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Optimization.xml
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.Razor.xml
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.WebPages.xml
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.WebPages.Deployment.xml
+C:\mag - Copy\mag\Magfinalproject\bin\System.Web.WebPages.Razor.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Antlr3.Runtime.pdb
+C:\mag - Copy\mag\Magfinalproject\bin\Newtonsoft.Json.xml
+C:\mag - Copy\mag\Magfinalproject\bin\EntityFramework.xml
+C:\mag - Copy\mag\Magfinalproject\bin\EntityFramework.SqlServer.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Google.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\mag - Copy\mag\Magfinalproject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Map.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Printing.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Utils.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraReports.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraCharts.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraGauges.v17.1.Win.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Xpo.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Office.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.TreeMap.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraGauges.v17.1.Presets.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraEditors.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Dashboard.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Dashboard.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Dashboard.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Dashboard.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Data.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Data.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Data.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Data.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Map.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Map.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Map.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Map.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraGauges.v17.1.Presets.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\bin\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.social.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.contacts.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.centertype.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations._class.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.con1.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.asks.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.footerw.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.gamil.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.gamil2.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.gamil21.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.mainfoot.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.jkj.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.csproj.GenerateResource.Cache
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.dll.licenses
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.dll
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.pdb
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.sdse.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.sdse1.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.sdse2.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.csprojResolveAssemblyReference.cache
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.remote.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.lists.resources
+C:\mag - Copy\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.center.resources
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\csc.exe
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\System.Collections.Immutable.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\System.Reflection.Metadata.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\vbc.exe
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\VBCSCompiler.exe
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\VBCSCompiler.exe.config
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Magfinalproject.dll.config
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Magfinalproject.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Magfinalproject.pdb
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Antlr3.Runtime.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.SqlServer.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Google.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Web.Infrastructure.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Newtonsoft.Json.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Owin.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.Mvc.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Helpers.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Mvc.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Optimization.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Razor.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Deployment.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Razor.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\WebGrease.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.Mvc.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Helpers.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Mvc.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Optimization.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Razor.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Deployment.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Razor.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Antlr3.Runtime.pdb
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Newtonsoft.Json.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.SqlServer.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Google.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.dll.licenses
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.dll
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.pdb
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.csproj.GenerateResource.Cache
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations._new.resources
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.agents.resources
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.csprojResolveAssemblyReference.cache
+D:\منسوخات الفلاش\FP PURE WITHOUT GOOGLE new\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations.nnn.resources
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.csprojResolveAssemblyReference.cache
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.pdb
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\csc.exe
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\vbc.exe
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\VBCSCompiler.exe
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Magfinalproject.dll.config
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Magfinalproject.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Magfinalproject.pdb
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Antlr3.Runtime.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.SqlServer.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Newtonsoft.Json.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Owin.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.Mvc.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Helpers.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Mvc.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Optimization.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Razor.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Deployment.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Razor.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\WebGrease.dll
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\PagedList.Mvc.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Helpers.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Mvc.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Optimization.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.Razor.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Deployment.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\System.Web.WebPages.Razor.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Antlr3.Runtime.pdb
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Newtonsoft.Json.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\EntityFramework.SqlServer.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.dll.licenses
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations._new.resources
+D:\New folder (4)\FP PURE WITHOUT GOOGLERF\FP PURE WITHOUT GOOGLE\mag\Magfinalproject\obj\Debug\Magfinalproject.csproj.GenerateResource.Cache
+D:\mag\Magfinalproject\bin\roslyn\csc.exe
+D:\mag\Magfinalproject\obj\Debug\Magfinalproject.csprojResolveAssemblyReference.cache
+D:\mag\Magfinalproject\obj\Debug\Magfinalproject.Migrations._new.resources
+D:\mag\Magfinalproject\obj\Debug\Magfinalproject.csproj.GenerateResource.Cache
+D:\mag\Magfinalproject\obj\Debug\Magfinalproject.dll.licenses
