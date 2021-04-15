@@ -1,6 +1,6 @@
 # Alsalahi-Website Entity Framework 7 using ASP.NET MVC 6 Project
-It's an open source website.
-Requirements to startup: 
+
+# Requirements to startup: 
 1) Visual Studio 2015 
 2) Sql Server 2016
 3) Extract all the rar files found in the main an Magfinalproject branches
