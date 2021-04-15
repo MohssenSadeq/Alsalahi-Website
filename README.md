@@ -10,5 +10,7 @@
 1) Launch the Magfinalproject.sln in VStudio
 2) To access the control panel page, click view in browser on the page "magcontrol" founded in Views>Home.
 3) use the fowllowing email and password to login into control panel 
-   Email:admin@mag.net
+   Email: admin@mag.net
    Password: M.kh8888
+
+# You can see the orginal Website on http://www.alsalahiexco.net/
