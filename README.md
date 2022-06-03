@@ -3,7 +3,7 @@
 # Requirements to startup: 
 1) Visual Studio 2015 
 2) Sql Server 2016
-3) Extract all the rar files found in the main an Magfinalproject branches
+3) Extract all the rar files found in the main of Magfinalproject branches
 4) Put the Magfinalproject branch in the main folder
 
 # How to Setup :
